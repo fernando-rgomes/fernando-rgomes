@@ -1,8 +1,21 @@
 ## Bem-vindo(a) ao meu perfil!
 
- <div>
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/c49bdac0-324d-4945-ae96-4aa0a1982985"/>
+<br>
+<br>
+<br>
+
+<div align = "center"> 
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fernando-rgomes&theme=shadow-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br>
+<br>
+ <div align = "center">
    <a href="https://github.com/fernando-rgomes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-rgomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-rgomes&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
