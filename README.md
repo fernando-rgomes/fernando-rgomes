@@ -7,7 +7,7 @@
 
 <div align = "center"> 
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fernando-rgomes&theme=shadow-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fernando-rgomes&theme=shadow-purple&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
