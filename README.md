@@ -89,25 +89,6 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
 <br/>
 
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=fernando-rgomes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-rgomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
 
 ### 📲 Para mais formas de contato, segue minhas Redes abaixo!
 
