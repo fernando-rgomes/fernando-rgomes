@@ -88,6 +88,7 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
 <br/>
 <br/>
 
+
 ### 📊 Estatísticas
 
 <p>
@@ -103,23 +104,30 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-rgomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-rgomes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
- 
-<p style="clear: both; margin-top: 20px; padding: 10px"> 
- 
-### Para mais formas de contato, segue minhas redes abaixo!
-  
-<a href="https://www.instagram.com/fe.juniorr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### 📲 Para mais formas de contato, segue minhas Redes abaixo!
+
+<div> 
+
+ <a href="https://www.instagram.com/fe.juniorr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-j%C3%BAnior-55102a190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
  
-</p>
+</div>
 
 
