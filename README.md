@@ -108,15 +108,6 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
   />
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### 📲 Para mais formas de contato, segue minhas Redes abaixo!
 
