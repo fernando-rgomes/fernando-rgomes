@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Fernando Júnior
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ciência da Computação na UFPB. Possuo formação técnica em Redes de Computadores pela ETEAAV e uma paixão genuína por tecnologia, buscando constantemente novos aprendizados e desafios na área.
 
