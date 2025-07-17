@@ -52,7 +52,7 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
 <img 
     align="left"
     width="30px"  
-    src="https://img.icons8.com/windows/32/node-js.png" 
+    src="https://img.icons8.com/fluency/48/node-js.png"  
     alt="node-js"
     title="Node-JS"
     style="padding-right: 10px;"
