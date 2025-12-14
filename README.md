@@ -94,6 +94,24 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
+<img 
+    align="left"
+    title="PostgresSQL"
+    width="30px" 
+    src="https://img.icons8.com/color/48/postgreesql.png" 
+    style="padding-right: 10px;"
+    alt="postgreesql"/>
+
+<img 
+    align="left"
+    title="Docker"
+    width="30px"  
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/fluency/48/docker.png"
+    alt="docker"/>
+
+
+
 <br/>
 <br/>
 
