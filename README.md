@@ -110,6 +110,13 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
     src="https://img.icons8.com/fluency/48/docker.png"
     alt="docker"/>
 
+<img 
+    align="left"
+    title="Github Copilot"
+    width="30px" 
+    src="https://img.icons8.com/fluency/48/github-copilot.png"
+    alt="github-copilot"/>
+
 
 
 <br/>
