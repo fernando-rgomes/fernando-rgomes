@@ -50,6 +50,15 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
+    align="left" 
+    alt="spring-logo"
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/spring-logo.png" 
+    />
+
+<img 
     align="left"
     width="30px"  
     src="https://img.icons8.com/fluency/48/node-js.png"  
@@ -58,7 +67,14 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
     style="padding-right: 10px;"
 />
     
-
+<img 
+    align="left"
+    alt="Cypress"
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" />
+    
 <img 
     align="left" 
     alt="Tailwind" 
@@ -85,6 +101,8 @@ Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ci
     width="30px" 
     style="padding-right: 10px;"
     src="https://img.icons8.com/color/48/pandas.png" />
+
+
 
 <img 
     align="left" 
