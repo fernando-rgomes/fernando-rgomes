@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Fernando Ribeiro Gomes Júnior, 21 anos, pernambucano e estudante de Ciência da Computação na UFPB. Possuo formação técnica em Redes de Computadores pela ETEAAV e uma paixão genuína por tecnologia, buscando constantemente novos aprendizados e desafios na área.
+Me chamo Fernando Ribeiro Gomes Júnior, tenho 21 anos, sou pernambucano e estudante de Ciência da Computação na UFPB. Possuo formação técnica em Redes de Computadores pela Escola Técnica Estadual de Goiana-PE e uma paixão genuína por tecnologia. Estou sempre em busca de novos aprendizados e desafios na área, com o objetivo de evoluir continuamente e contribuir de forma significativa para projetos inovadores.
 
 
 ---
